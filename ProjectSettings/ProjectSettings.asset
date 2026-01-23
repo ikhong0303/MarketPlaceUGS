@@ -945,11 +945,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5f8c0f64-59d9-4852-9b7b-341fe1c6239a
+  cloudProjectId: 793b5ca3-eebe-4d55-a0fe-862f933ffcfd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MarketPlaceUGS
-  organizationId: beerandcheese
+  projectName: multiFpsSample
+  organizationId: rhavkd33
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

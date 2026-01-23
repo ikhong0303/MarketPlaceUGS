@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Shooter/TestScenes/[BB] Shooter MultiplayerSession.unity
     guid: 7d42b85864099114e8d3c5e25250b013
   - enabled: 0
-    path: Assets/InUse/UGSTest/UGS_TEST_Scene.unity
+    path: Assets/UGSTest/UGS_TEST_Scene.unity
     guid: 768b893cfcc6f9c47b6447b0ecc7ba1d
   - enabled: 1
     path: Assets/Scene/0.unity
